@@ -2,6 +2,6 @@
 
 Publications around LTA technology projects
 
-# Verify document origin via gpg2 added signature
-
+# origin Verification 
+Via gpg2 added signature in this repo:
 Find my mail and upstream key id on my blog.
